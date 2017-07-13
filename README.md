@@ -74,8 +74,8 @@ Inputs:
 
 ## k-Shortest Path problem
 Practice algorithm implementation by following David Eppstein's solution for finding the
-[k-shortest path](https://en.wikipedia.org/wiki/K_shortest_path_routing)
+[k-shortest path](https://en.wikipedia.org/wiki/K_shortest_path_routing).
 
 ## k-Shortest Path with Minimal Overlap
 One step further, apply the problem to finding the shortest path, but limiting the amount of overlap
-between routes. Academic reference: [Alternative Routing: k-Shortest Paths with Limited Overlap](http://cs.au.dk/~bouros/docs/sigspatial15.pdf)
+between routes. Academic reference: [Alternative Routing: k-Shortest Paths with Limited Overlap](http://cs.au.dk/~bouros/docs/sigspatial15.pdf).
