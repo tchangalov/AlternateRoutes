@@ -11,7 +11,7 @@ the internship. I decided to write an algorithm that would give us different pat
 built an application to do it.
 
 ## Data set
-I used [ArcGIS online] (http://www.arcgis.com/home/webmap/viewer.html?webmap=b2cb612edf4b441584cff9f7c49133b0) to create a map that would eventually
+I used [ArcGIS online](http://www.arcgis.com/home/webmap/viewer.html?webmap=b2cb612edf4b441584cff9f7c49133b0) to create a map that would eventually
 turn into a graph structure.
 
 ![er](Graph1.png)
