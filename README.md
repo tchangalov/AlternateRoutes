@@ -39,7 +39,7 @@ an undirected graph as well as specify the starting and ending nodes. The syntax
 		},
 		{
 			"association" : ["node4","node5"], "weight" : 6.8
-		}
+		}]
 		
 }
 ```
