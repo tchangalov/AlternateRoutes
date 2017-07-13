@@ -1,0 +1,12 @@
+10 takes 8.42meters
+1 takes 9.99meters
+2 takes 8.47meters
+3 takes 5.59meters
+4 takes 0.64meters
+5 takes 1.43meters
+6 takes 7.52meters
+7 takes 1.76meters
+8 takes 0meters
+9 takes 7.31meters
+End Session 
+
