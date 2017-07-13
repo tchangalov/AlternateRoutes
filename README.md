@@ -56,13 +56,12 @@ When done, a user can select "Go" in order to execute the algorithm. There is an
 in case something goes awry.
 
 # Algorithms
-I wanted to solve the problem that I set out to explore. In this application, it is labelled as the Heuristic
-Algorithm. The other two are implementations of existing routing solutions that I could use to practice and compare results.
+In this application, my solution is labelled as the Heuristic Algorithm. The other two are implementations of existing routing solutions that I could use to practice and compare results.
 
-## Heuristic
+## Heuristic (In Progress)
 I simply needed to find permutations of the Dijkstra's shortest path in order to come up with different paths
-home. I realized I could simply take away certain edges until I have the number of paths I reached.
-I could queue up the edges and "dance" around them until I had what I wanted.
+home. I realized I could simply take away certain edges until I have the number of paths I wanted.
+I could queue up the edges and "dance" around them.
 
 However, a simpler approach to my problem was to define path efficiency and then run a Depth First Search
 on the graph. If a path reachs the ending node and it is within a specified path efficiency (relative
@@ -72,10 +71,10 @@ Inputs:
 - Number of paths desired
 - Path efficiency
 
-## k-Shortest Path problem
+## k-Shortest Path problem (Pending)
 Practice algorithm implementation by following David Eppstein's solution for finding the
 [k-shortest path](https://en.wikipedia.org/wiki/K_shortest_path_routing).
 
-## k-Shortest Path with Minimal Overlap
+## k-Shortest Path with Minimal Overlap (Pending)
 One step further, apply the problem to finding the shortest path, but limiting the amount of overlap
 between routes. Academic reference: [Alternative Routing: k-Shortest Paths with Limited Overlap](http://cs.au.dk/~bouros/docs/sigspatial15.pdf).
