@@ -48,7 +48,7 @@ an undirected graph as well as specify the starting and ending nodes. The syntax
 The MFC Visual C++ program prompts you to upload the .json file. Please see the sample data to get started.
 After that, you can choose one of three algorithms using the designed user interface:
 
-![er](UI.png) 
+![er](UI2.png) 
 
 Based on your selection, additional input parameters may be required.
 
