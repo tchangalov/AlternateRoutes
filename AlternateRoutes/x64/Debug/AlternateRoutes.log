@@ -1,1 +1,15 @@
-﻿
+﻿  stdafx.cpp
+  Graph.cpp
+c:\users\ivel9171\dropbox\github\alternateroutes\alternateroutes\graph.h(21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ivel9171\dropbox\github\alternateroutes\alternateroutes\graph.h(22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ivel9171\dropbox\github\alternateroutes\alternateroutes\graph.cpp(61): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ivel9171\dropbox\github\alternateroutes\alternateroutes\graph.cpp(64): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  AlternateRoutesDlg.cpp
+c:\users\ivel9171\dropbox\github\alternateroutes\alternateroutes\graph.h(21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ivel9171\dropbox\github\alternateroutes\alternateroutes\graph.h(22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  AlternateRoutes.cpp
+c:\users\ivel9171\dropbox\github\alternateroutes\alternateroutes\graph.h(21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ivel9171\dropbox\github\alternateroutes\alternateroutes\graph.h(22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  AlternateRoutes.vcxproj -> C:\Users\ivel9171\Dropbox\Github\AlternateRoutes\x64\Debug\AlternateRoutes.exe
+  AlternateRoutes.vcxproj -> C:\Users\ivel9171\Dropbox\Github\AlternateRoutes\x64\Debug\AlternateRoutes.pdb (Partial PDB)

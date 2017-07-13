@@ -1,5 +1,5 @@
 # AlternateRoutes
-A .NET Application that calculates alternate routes
+A .NET Application that calculates alternate routes.
 
 # Introduction
 I began my internship in Redlands, CA Summer 2017, where I carpooled to and from work each day.
@@ -63,7 +63,7 @@ I simply needed to find permutations of the Dijkstra's shortest path in order to
 home. I realized I could simply take away certain edges until I have the number of paths I wanted.
 I could queue up the edges and "dance" around them.
 
-However, a simpler approach to my problem was to define path efficiency and then run a Depth First Search
+However, a simpler approach to my problem was to define a path efficiency threshold and then run a Depth First Search
 on the graph. If a path reachs the ending node and it is within a specified path efficiency (relative
 to the shortest path solution), then it is good enough to be included in the set.
 
