@@ -16,12 +16,12 @@ turn into a graph structure.
 
 ![er](Graph1.png)
 
-I converted it to a graph and calculated the distance between each node using the online tools
+I converted it to a graph and calculated the distance between each node:
 
 ![er](Graph2.png) ![er](Graph3.png)
 
 The application uses .json as input (using a script) to create a representation of
-an undirected graph as well as specify the starting and ending nodes. The syntax goes as follows
+an undirected graph as well as specify the starting and ending nodes. The syntax goes as follows:
 ```json
 {
 	"starting" : "node1",
@@ -39,7 +39,7 @@ an undirected graph as well as specify the starting and ending nodes. The syntax
 		},
 		{
 			"association" : ["node4","node5"], "weight" : 6.8
-		},
+		}
 		
 }
 ```
